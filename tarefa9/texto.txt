@@ -1,0 +1,2 @@
+O programa imprimiu 5 1 2 3 3 2 1 5 quando foi executado.
+

@@ -1,0 +1,1 @@
+Após entrar com os valores pela entrada de parametros padrão o código irá percorrer todo o vetor buscando pelo maior valor. Após encontrar o maior, o programa imprime no terminal. 

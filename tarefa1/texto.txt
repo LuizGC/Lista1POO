@@ -1,0 +1,7 @@
+A saída desse código foi
+i= 1 j= 11
+i= 2 j= 4
+i= 3 j= 6
+i= 4 j= 8
+
+O código um for que inicializa duas variáveis e vai imprimindo os valores delas até quando a variável i ser 5. A variável i anda de 1 em 1 enquanto a váriavel j no começo é i + 10 mas depois começa sendo o dobro da váriavel i. 
